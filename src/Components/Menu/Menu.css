@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#nav{
+    width:  100%;
+    background-color: grey;
+}
+.Li2{
+    text-decoration: none;
+    color: brown;
+    list-style: none;
+    font-size: 25px;
+    padding: 25px;
+}
+#ul{
+    display: flex;
+    justify-content: space-around;
+}
+.Li2:hover{
+    background-color: plum;
+    color: black;
+}
+.Li1{
+    text-decoration: none;
+    color: pink;
+    list-style: none;
+    font-size: 25px;
+    padding: 25px;
+}
